@@ -1,0 +1,15 @@
+We want to lower usability barriers and democratize access to Sovereign ID services on DLT for consumers, service providers, financial institutions, health institutions etc. Blockchain technology can make Digital Identity Disposable and Maintained (Administrated) by the users only (more efficient and cheaper). However, as most blockchain and crypto services, today are still difficult to use, we want to simplify access to them by providing familiar touchpoints of payment card, mobile phones and to be interoperable with the legacy infrastructure.
+
+Anyone should be able to establish their identity, even without documents. The Sofitto Smart Card DHID provides an effective identity alternative that enables the world to do just that. 
+
+The offline hardware DHID wallet provides users with an exceptional degree of data security. The card itself is unusable to anyone other than its owner. Zero personal data is stored on the card itself. If stolen or lost, the card cannot be tampered with to retrieve any personal data whatsoever. The user is always in control of their data. All data is completely inaccessible to third parties. Any data that is collected from a DHID user is done so only by their consent. Data is stored on an encrypted cloud, hosted by the DHID Covid 19 Consortium (TBC).
+
+Sofitto Smart card is an extremely user friendly and robust digital identity system. The user receives their smart ID card only after they have generated their digital identity. They will use the ID card to access their encrypted vault - in which their identity is stored - or to create identity credentials, to have those credentials verified, and to use those credentials to access services. 
+
+In order to access a Health ID service, the user taps the service provider’s device with their card and authenticates with a PIN or thumbprint. Recovery is easy too, requiring only that the biometrics and a pin code be submitted at any Identity Kiosk.
+
+Sofitto stores blockchain wallets in the secure element of the card that is operated via NFC, multi-application cards are also possible. This enables the integration of your Disposable Health ID Vault inside an ordinary banking card of a Smart card - based ID card
+
+Our technology is blockchain-agnostic and ready to merge distributed ledger technology with the existing payments infrastructure. The existing infrastructure for reading Personal ID cards and even the legacy financial terminals like POS or ATM can enable the DHID operations on the Sofitto Smart card. The integrated DHID Wallet within the card’s Secure Element is activated in the legacy infrastructure and is able to incapsulate the blockchain metadata to the current ISO messages format. 
+
+This data conversion from blockchain to ISO format makes the use of the DHID cards transparent to all the functional legacy terminals without the need for the expensive hardware modifications. A simple software update to enable the relevant DHID UX functionality is required. Normally the POS/ATM terminals get weekly maintenance software updates. 
